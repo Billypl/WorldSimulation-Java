@@ -1,0 +1,82 @@
+10 10
+40
+Human
+1 6
+Grass
+4 5
+Grass
+2 0
+Grass
+3 0
+Grass
+4 4
+Grass
+5 5
+Grass
+5 4
+Grass
+4 6
+Grass
+4 0
+Grass
+6 4
+Grass
+1 0
+Grass
+5 6
+Grass
+6 6
+Grass
+0 1
+Grass
+5 0
+Grass
+5 7
+Grass
+3 4
+Grass
+6 7
+Grass
+7 7
+Grass
+2 4
+Grass
+6 3
+Grass
+5 8
+Grass
+0 0
+Grass
+4 7
+Grass
+6 5
+Grass
+7 6
+Grass
+0 3
+Grass
+7 4
+Grass
+2 5
+Grass
+3 6
+Grass
+6 1
+Grass
+6 0
+Grass
+0 4
+Grass
+7 5
+Grass
+8 5
+Grass
+8 7
+Grass
+7 3
+Grass
+3 5
+Grass
+8 6
+Grass
+2 6
